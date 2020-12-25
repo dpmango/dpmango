@@ -7,10 +7,9 @@
   <br/>
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile link</a>
 </h4>
-<br />
-<br />
 Best use contacts on the github profile for contact in case of job-based issues
-
+<br />
+<br />
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
