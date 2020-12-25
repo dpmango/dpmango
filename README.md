@@ -7,7 +7,7 @@
   <br/>
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile link</a>
 </h4>
-Best use contacts on the github profile for contact in case of job-based issues
+Best use contacts on the github profile for job-based issues
 <br />
 <br />
 <p align="center">
