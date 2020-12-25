@@ -2,13 +2,13 @@
 <h3 align="center">
   Frontend developer. Available for project-based freelance work. Codersrank TOP 50 worldwide.
 </h3>
-<br />
-<br />
 <h4>
   Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">Upwork profile link</a>
   <br/>
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile link</a>
 </h4>
+<br />
+<br />
 Best use contacts on the github profile for contact in case of job-based issues
 
 <p align="center">
