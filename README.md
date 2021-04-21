@@ -32,7 +32,7 @@ Best use contacts on the github profile for job-based issues
 <p align="center">
   <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
     <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=2&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:10px"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=3&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:0px"
       alt="CodersRank summary"
       style="width: 100%"
     />
