@@ -13,7 +13,7 @@ Best use contacts on the github profile for job-based issues
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=dpmango&rank=SSS,SS,S,AAA,AA,A&margin-w=8"
+      src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8"
   /></a>
 </p>
 
