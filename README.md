@@ -19,14 +19,14 @@ Best use contacts on the github profile for job-based issues
 
 
 <!-- CodersRank Chart widget -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
     <img
       src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dpmango&skills=CSS,HTML,JSON,JavaScript,Less,PHP,Python,Ruby,SASS,SCSS,TypeScript,Vue,ajax,jquery,json,react&width=820"
       alt="CodersRank skills chart"
     />
   </a>
-</p> -->
+</p>
 
 <!-- CodersRank Summary widget -->
 <p align="center">
