@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sergey</h1>
+<h1 align="center">👋 I'm Sergey</h1>
 <h3 align="center">
-  Frontend developer. Available for project-based freelance work. Codersrank TOP 50 worldwide.
+  Frontend developer. Available for contract work.
 </h3>
+<br />
 <h4>
-  Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">Upwork profile link</a>
+  Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">Upwork profile</a>
   <br/>
-  Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile link</a>
+  Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile</a>
 </h4>
-Best use contacts on the github profile for job-based issues
-<br />
-<br />
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
