@@ -3,7 +3,7 @@
   Frontend developer. Available for contract work.
 </h3>
 <br />
-<h4>
+<h4 style="text-align: right">
   Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">Upwork profile</a>
   <br/>
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile</a>
