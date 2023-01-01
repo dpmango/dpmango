@@ -63,26 +63,10 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gulpjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -111,6 +95,30 @@
       height="40"
     />
   </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      alt="nestjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -119,18 +127,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.sketch.com/" target="_blank">
+  <a href="https://gulpjs.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-      alt="sketch"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
+      alt="gulp"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
@@ -139,6 +147,22 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
       alt="webpack"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://eslint.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"
+      alt="eslint"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#" target="">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash"
       width="40"
       height="40"
     />
