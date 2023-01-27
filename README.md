@@ -184,3 +184,10 @@
     </td>
   </tr>
 </table>
+
+<!-- counter -->
+<img
+  src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg](https://komarev.com/ghpvc/?username=dpmango&color=blueviolet&style=flat-square)"
+  width="100%"
+  height="100%"
+/>
