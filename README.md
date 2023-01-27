@@ -187,7 +187,7 @@
 
 <!-- counter -->
 <img
-  src="https://komarev.com/ghpvc/?username=dpmango&color=blueviolet&style=flat-square"
-  width="100%"
+  src="https://komarev.com/ghpvc/?username=dpmango&color=blueviolet&style=flat-square&label=ID:"
+  width="100px"
   height="100%"
 />
