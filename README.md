@@ -25,16 +25,6 @@
   </a>
 </p>
 
-<!-- CodersRank Summary widget -->
-<p align="center">
-  <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
-    <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=3&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:0px"
-      alt="CodersRank summary"
-      style="width: 100%"
-    />
-  </a>
-</p>
 
 <!-- Icons widget -->
 <p align="center" style="background: white; padding: 10px;">
@@ -144,6 +134,17 @@
     <img
       src="https://img.shields.io/badge/Bash-090c15?style=for-the-badge&logo=gnubash&logoColor=white"
       alt="bash"
+    />
+  </a>
+</p>
+
+<!-- CodersRank Summary widget -->
+<p align="center">
+  <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
+    <img
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=3&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:0px"
+      alt="CodersRank summary"
+      style="width: 100%"
     />
   </a>
 </p>
