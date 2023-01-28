@@ -164,8 +164,3 @@
   </tr>
 </table>
 
-<!-- counter -->
-<img
-  src="https://komarev.com/ghpvc/?username=dpmango&color=blueviolet&style=flat-square&label=ID:"
-
-/>
