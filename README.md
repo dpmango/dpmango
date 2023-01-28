@@ -8,7 +8,7 @@
   <br/>
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile</a>
 </h4>
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
 </a>
