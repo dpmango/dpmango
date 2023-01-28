@@ -9,10 +9,9 @@
   Fl.ru: <a href="https://www.fl.ru/users/mangodigital/">Fl.ru profile</a>
 </h4>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8"
-  /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
+</a>
 </p>
 
 
@@ -41,130 +40,110 @@
 <p align="center" style="background: white; padding: 10px;">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=FFFFFF"
       alt="html5"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"
       alt="javascript"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://img.shields.io/badge/TS-007acc?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
       alt="react"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=42b883"
       alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://nextjs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+      src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="nextjs"
-      width="40"
-      height="40"
+    />
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Nuxt-35495e?style=for-the-badge&logo=nuxtdotjs&logoColor=41b883"
+      alt="nuxtjs"
     />
   </a>
   <a href="https://nestjs.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      src="https://img.shields.io/badge/Nest-090909?style=for-the-badge&logo=nestjs&logoColor=ea2845"
       alt="nestjs"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://graphql.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
+      src="https://img.shields.io/badge/GraphQl-e10098?style=for-the-badge&logo=graphql&logoColor=white"
       alt="graphql"
-      width="40"
-      height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gulpjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/taliwindcss-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      alt="taliwind"
     />
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
+      src="https://img.shields.io/badge/Webpack-1c78c0?style=for-the-badge&logo=webpack&logoColor=white"
       alt="webpack"
-      width="40"
-      height="40"
+    />
+  </a>
+  <a href="https://vitejs.dev" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
+      alt="vite"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Node.js-090c15?style=for-the-badge&logo=nodedotjs&logoColor=43853d"
+      alt="nodejs"
+    />
+  </a>
+  <a href="https://gulpjs.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=white"
+      alt="gulp"
     />
   </a>
   <a href="https://eslint.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"
+      src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"
       alt="eslint"
-      width="40"
-      height="40"
     />
   </a>
-  <a href="#" target="">
+  <a href="https://prettier.io" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"
+      alt="prettier"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="">
+    <img
+      src="https://img.shields.io/badge/Bash-090c15?style=for-the-badge&logo=gnubash&logoColor=white"
       alt="bash"
-      width="40"
-      height="40"
     />
   </a>
 </p>
@@ -188,6 +167,5 @@
 <!-- counter -->
 <img
   src="https://komarev.com/ghpvc/?username=dpmango&color=blueviolet&style=flat-square&label=ID:"
-  width="50px"
-  height="100%"
+
 />
