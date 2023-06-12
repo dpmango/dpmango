@@ -148,15 +148,3 @@
     />
   </a>
 </p>
-
-<!-- Lang/stat widget -->
-<table>
-  <tr>
-    <td style="border:none; padding: 3px" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=dpmango&show_icons=true&hide_border=true&locale=en"
-      />
-    </td>
-  </tr>
-</table>
-
