@@ -1,4 +1,5 @@
 <h1 align="center">👋 I'm Sergey</h1>
+<br/> <!-- like brbrbrbr -->
 
 <!-- CodersRank Summary widget -->
 <p align="center">
@@ -10,18 +11,19 @@
     />
   </a>
 </p>
+
+<!-- Links to contact -->
 <hr />
 <hr/>
 <h3 align="center">
   Frontend developer. Available for contract work.
+  <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">=== Upwork (currently unavailable) ===</a>
+  <br/>
+  <a href="https://www.fl.ru/users/mangodigital/">=== Fl.RU profile ===</a>
 </h3>
 <hr />
 <hr/>
-<h4 style="text-align: right">
-  Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">=== Upwork (currently unavailable) ===</a>
-  <br/>
-  Fl: <a href="https://www.fl.ru/users/mangodigital/">=== Fl.RU profile ===</a>
-</h4>
+
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
