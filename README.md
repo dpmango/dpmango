@@ -1,7 +1,22 @@
 <h1 align="center">👋 I'm Sergey</h1>
+
+<!-- CodersRank Summary widget -->
+<p align="center">
+  <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
+    <img
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=3&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:0px"
+      alt="CodersRank summary"
+      style="width: 100%"
+    />
+  </a>
+</p>
+<hr />
+<hr/>
 <h3 align="center">
   Frontend developer. Available for contract work.
 </h3>
+<hr />
+<hr/>
 <br />
 <h4 style="text-align: right">
   Upwork: <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">Upwork profile</a>
@@ -13,7 +28,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
 </a>
 </p>
-
+<hr />
+<hr/>
 
 <!-- CodersRank Chart widget -->
 <p align="center">
@@ -138,13 +154,4 @@
   </a>
 </p>
 
-<!-- CodersRank Summary widget -->
-<p align="center">
-  <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
-    <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dpmango&badges=3&show-avatar=true&width=820&style=--header-bg-color:%23000;--border-radius:0px"
-      alt="CodersRank summary"
-      style="width: 100%"
-    />
-  </a>
-</p>
+
