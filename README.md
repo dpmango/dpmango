@@ -13,24 +13,26 @@
 </p>
 
 <!-- Links to contact -->
-<hr />
-<hr/>
+<hr /><hr/>
 <h3 align="center">
-  Frontend developer. Available for contract work.
-  <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">=== Upwork (currently unavailable) ===</a>
+  Frontend developer. Available for contract work.</h3>
+  <!-- more brbrbrbrbrbrbrbrbrbrbrb --->
+  <br/><br/>
+  <!-- follewed by links -->
+  <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">
+    === Upwork (currently unavailable) === <!-- You know why -->
+  </a>
   <br/>
   <a href="https://www.fl.ru/users/mangodigital/">=== Fl.RU profile ===</a>
 </h3>
-<hr />
-<hr/>
+<hr /><hr/>
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
-</a>
+  </a>
 </p>
-<hr />
-<hr/>
+<hr /><hr/>
 
 <!-- CodersRank Chart widget -->
 <p align="center">
@@ -41,7 +43,6 @@
     />
   </a>
 </p>
-
 
 <!-- Icons widget -->
 <p align="center" style="background: white; padding: 10px;">
@@ -154,5 +155,3 @@
     />
   </a>
 </p>
-
-
