@@ -15,8 +15,8 @@
 <!-- Links to contact -->
 <hr /><hr/>
 <h3 align="center">
-  Frontend developer. Available for contract work.</h3>
-  <!-- more brbrbrbrbrbrbrbrbrbrbrb --->
+  Frontend developer.</h3>
+  <!-- brbrbrbrbrbrbrbrbrbrbrb brbrbrbrbrbrbrbrbrbrbrb --->
   <br/><br/>
   <!-- follewed by links -->
   <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">
