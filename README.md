@@ -1,10 +1,6 @@
 <h1 align="center">👋 I'm Sergey</h1>
-<br/> <!-- like brbrbrbr -->
-
-
 
 <!-- Links to contact -->
-<hr /><hr/>
 <h3 align="center">
   Frontend developer.</h3>
   <!-- brbrbrbrbrbrbrbrbrbrbrb brbrbrbrbrbrbrbrbrbrbrb --->
