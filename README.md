@@ -19,17 +19,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
   </a>
 </p>
+<!--
 <hr /><hr/>
+-->
 
 <!-- CodersRank Chart widget -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
     <img
       src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dpmango&skills=CSS,HTML,JSON,JavaScript,Less,PHP,Python,Ruby,SASS,SCSS,TypeScript,Vue,ajax,jquery,json,react&width=820"
       alt="CodersRank skills chart"
     />
   </a>
-</p>
+</p> -->
 
 <!-- Icons widget -->
 <p align="center" style="background: white; padding: 10px;">
