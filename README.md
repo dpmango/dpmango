@@ -19,9 +19,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
   </a>
 </p>
-<!--
 <hr /><hr/>
--->
 
 <!-- CodersRank Chart widget -->
 <!-- <p align="center">
