@@ -2,15 +2,16 @@
 
 <!-- Links to contact -->
 <h3 align="center">
-  Frontend developer.</h3>
+  Fullstack Typescript developer.</h3>
   <!-- brbrbrbrbrbrbrbrbrbrbrb brbrbrbrbrbrbrbrbrbrbrb --->
-  <br/><br/>
   <!-- follewed by links -->
+  <!--
   <a href="https://www.upwork.com/freelancers/~0131f9f3ad76404b63">
-    === Upwork (currently unavailable) === <!-- You know why -->
+    === Upwork (currently unavailable) ===
   </a>
   <br/>
   <a href="https://www.fl.ru/users/mangodigital/">=== Fl.RU profile ===</a>
+  -->
 </h3>
 <hr /><hr/>
 
