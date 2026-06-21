@@ -34,16 +34,16 @@
 
 <!-- Icons widget -->
 <p align="center" style="background: white; padding: 10px;">
-  <a href="https://www.w3.org/html/" target="_blank">
+  <!-- <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=FFFFFF"
       alt="html5"
     />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  </a> -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
+      src="https://img.shields.io/badge/TS-007acc?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -52,10 +52,10 @@
       alt="javascript"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://img.shields.io/badge/TS-007acc?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"
+      src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
