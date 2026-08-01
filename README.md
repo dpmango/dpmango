@@ -16,9 +16,7 @@
 <hr /><hr/>
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
-  </a>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
 </p>
 <hr /><hr/>
 
