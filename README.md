@@ -15,20 +15,14 @@
 </h3>
 <hr /><hr/>
 
-<p>
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" />
-</p>
-<hr /><hr/>
-
-<!-- CodersRank Chart widget -->
-<!-- <p align="center">
-  <a href="https://profile.codersrank.io/user/dpmango" target="_blank">
-    <img
-      src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dpmango&skills=CSS,HTML,JSON,JavaScript,Less,PHP,Python,Ruby,SASS,SCSS,TypeScript,Vue,ajax,jquery,json,react&width=820"
-      alt="CodersRank skills chart"
-    />
+<p align="center">
+  <a href="https://github.com/jstrieb/github-stats">
+    <img src="profile/languages.svg" width="100%" alt="Languages used across private repositories" />
   </a>
-</p> -->
+  <br />
+  <sub>Private repositories · Updated November 11, 2026</sub>
+</p>
+<hr />
 
 <!-- Icons widget -->
 <p align="center" style="background: white; padding: 10px;">
