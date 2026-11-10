@@ -1,8 +1,8 @@
 <h1 align="center">👋 I'm Sergey</h1>
 
 <!-- Links to contact -->
-<h3 align="center">
-  Fullstack Typescript developer.</h3>
+<h3 align="center">Full-Stack TypeScript Engineer</h3>
+<p align="center">Building products end to end with TypeScript and AI.</p>
   <!-- brbrbrbrbrbrbrbrbrbrbrb brbrbrbrbrbrbrbrbrbrbrb --->
   <!-- follewed by links -->
   <!--
