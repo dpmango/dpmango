@@ -17,10 +17,10 @@
 
 <p align="center">
   <a href="https://github.com/jstrieb/github-stats">
-    <img src="profile/languages.svg" width="100%" alt="Languages used across public and private repositories" />
+    <img src="profile/languages.svg" width="100%" alt="Languages in public and private non-fork repositories pushed to in the last 5 years" />
   </a>
   <br />
-  <sub>Public + private repositories · Checked daily</sub>
+  <sub>Public + private · Excluding forks · Repositories pushed to in the last 5 years · Checked weekly</sub>
 </p>
 <hr />
 
