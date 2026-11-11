@@ -1,0 +1,54 @@
+name: Update language chart
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: Repository coverage
+        type: choice
+        required: true
+        default: all
+        options:
+          - all
+          - private
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-languages.yml
+      - scripts/update_languages.py
+      - tests/test_update_languages.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-language-chart
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check updater
+        run: python3 -m unittest discover -s tests -p test_update_languages.py
+      - name: Generate chart
+        env:
+          LANGUAGES_TOKEN: ${{ secrets.PROFILE_LANGUAGES_TOKEN }}
+          CHART_SCOPE: ${{ github.event.inputs.scope || 'all' }}
+        run: python3 scripts/update_languages.py --owner "$GITHUB_REPOSITORY_OWNER" --scope "$CHART_SCOPE"
+      - name: Save chart when changed
+        run: |
+          git add profile/languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update language chart'
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

@@ -17,10 +17,15 @@
 
 <p align="center">
   <a href="https://github.com/jstrieb/github-stats">
-    <img src="profile/languages.svg" width="100%" alt="Languages used across private repositories" />
+    <img src="profile/languages.svg" width="100%" alt="Languages used across public and private repositories" />
   </a>
   <br />
-  <sub>Private repositories · Updated November 11, 2026</sub>
+  <sub>Public + private repositories · Checked daily</sub>
+</p>
+<hr />
+
+<p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dpmango&theme=oldie&rank=SSS,SS,S,AAA,AA,A&margin-w=8" alt="GitHub trophies" />
 </p>
 <hr />
 
